@@ -57,6 +57,9 @@ npm run dev
 ```
 http://localhost:5173
 ```
+## Live Demo
+
+finance-dashboard-cqcv81g8u-kalyanchakravarthy4s-projects.vercel.app
 ## Future Improvements
 
 * Add transaction form instead of default values
