@@ -37,7 +37,7 @@ A role switcher is provided to simulate different user roles.
 1. Clone the repository:
 
 ```bash
-git clone <https://github.com/kalyanchakravarthy4/finance-dashboard.git>
+git clone https://github.com/kalyanchakravarthy4/finance-dashboard.git
 ```
 
 2. Install dependencies:
